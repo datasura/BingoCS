@@ -1,0 +1,46 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 2em;
+  }
+  
+  h1 {
+    font-style: italic;
+    color: #373fff;
+  }
+  
+  #tblBingo {
+    margin: 0 auto;
+    width: 20%;
+    height: 90%;
+    border-collapse: collapse;
+    background: white;
+  }
+  
+  td {
+    margin: 0 auto;
+    text-align: center;
+    border: 2.5px solid black;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+  }
+
+  .head {
+      text-align: center;
+      font-size: 3em;
+      font-weight: 1000;
+  }
+
+  .val {
+    font-family: "Lucida Handwriting", cursive;
+    font-size: larger;
+    font-weight: 700;
+  }
+
+  .star {
+      font-size: 5em;
+      background:goldenrod;
+  }
